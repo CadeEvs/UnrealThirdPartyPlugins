@@ -11,11 +11,11 @@ A list of recommended third party plugins for Unreal Engine
 | [SUDS](https://github.com/sinbad/SUDS)                                                       | SUDS is a plugin for Unreal Engine 5 which allows you to run dialogues in your game based on a script that you write in a text file. | Free  | Has paid version |
 
 ## Core
-| Name                                                  | Description                                                                                                                                                                               | Price |
-|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
-| [FlowGraph](https://github.com/MothCocoon/FlowGraph)  | Flow plug-in for Unreal Engine is a design-agnostic event node editor. It provides a graph editor tailored for scripting flow of events in virtual worlds.                                | Free  |
-| [ue5coro](https://github.com/landelare/ue5coro)       | UE5Coro implements C++20 coroutine support for Unreal Engine 5 with a focus on gameplay logic, convenience, and providing seamless integration with the engine.                           | Free  |
-| [VoxelCore](https://github.com/VoxelPlugin/VoxelCore) | Voxel Core is an open-source plugin with the Core module of Voxel Plugin. It's essentially a layer on top Unreal to make it easier to write high-performance code & customize the editor. | Free  |
+| Name                                                  | Description                                                                                                                                                                               | Price | Notes |
+|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|-------|
+| [FlowGraph](https://github.com/MothCocoon/FlowGraph)  | Flow plug-in for Unreal Engine is a design-agnostic event node editor. It provides a graph editor tailored for scripting flow of events in virtual worlds.                                | Free  |       |
+| [ue5coro](https://github.com/landelare/ue5coro)       | UE5Coro implements C++20 coroutine support for Unreal Engine 5 with a focus on gameplay logic, convenience, and providing seamless integration with the engine.                           | Free  |       |
+| [VoxelCore](https://github.com/VoxelPlugin/VoxelCore) | Voxel Core is an open-source plugin with the Core module of Voxel Plugin. It's essentially a layer on top Unreal to make it easier to write high-performance code & customize the editor. | Free  |       |
 
 ## Tools
 | Name                                                                                 | Description                                                                                                                                          | Price | Notes |
