@@ -48,10 +48,10 @@ A list of recommended third party plugins for Unreal Engine
 | [EOS Online Subsystem](https://www.fab.com/listings/b900b244-0ff6-49e3-8562-5fc630ba9515) | EOS support for authentication, avatars, friends, sessions, parties, Voice Chat, presence, stats, achievements, leaderboards, Player Data Storage, Title Storage, peer-to-peer networking, Anti-Cheat and network authentication. | Paid  |       |
 
 ## Languages
-| Name                                                  | Description                                                                                                                                    | Price | Notes                       |
-|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-------|-----------------------------|
-| https://github.com/Hazelight/UnrealEngine-Angelscript | UnrealEngine-Angelscript is a set of engine modifications and a plugin for Unreal Engine 5 that integrates a full-featured scripting language. | Free  | Requires custom engine fork |
-| https://github.com/UnrealSharp/UnrealSharp            | UnrealSharp is a plugin for Unreal Engine 5 that allows game developers to use C# in their projects with the power of .NET 9.                  | Free  |                             |
+| Name                                                                 | Description                                                                                                                                    | Price | Notes                       |
+|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|-------|-----------------------------|
+| [AngelScript](https://github.com/Hazelight/UnrealEngine-Angelscript) | UnrealEngine-Angelscript is a set of engine modifications and a plugin for Unreal Engine 5 that integrates a full-featured scripting language. | Free  | Requires custom engine fork |
+| [UnrealSharp](https://github.com/UnrealSharp/UnrealSharp)            | UnrealSharp is a plugin for Unreal Engine 5 that allows game developers to use C# in their projects with the power of .NET 9.                  | Free  |                             |
 
 ## Source Control
 | Name                                                          | Description                                                                                                                                                                                                              | Price | Notes |
