@@ -1,5 +1,5 @@
-# UnrealThirdPartyPlugins
-A list of recommended third party plugins for Unreal Engine
+# Unreal Third Party Plugins
+A list of recommended third party plugins for Unreal Engine.
 
 ## Game Systems
 | Name                                                                                         | Description                                                                                                 | Source | Notes            |
