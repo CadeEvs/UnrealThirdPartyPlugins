@@ -2,13 +2,13 @@
 A list of recommended third party plugins for Unreal Engine
 
 ## Game Systems
-| Name                                                                                         | Description                                                                                                                          | Price | Notes            |
-|----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-------|------------------|
-| [GameItemsPlugin](https://github.com/bohdon/GameItemsPlugin)                                 | An Unreal plugin with classes and tools for creating gameplay items, inventories and equipment.                                      | Free  |                  |
-| [ExtendedGameplayAbilitiesPlugin](https://github.com/bohdon/ExtendedGameplayAbilitiesPlugin) | Three plugins for extending and working with Unreal's builtin Gameplay Abilities.                                                    | Free  |                  |
-| [GameExperiencesPlugin](https://github.com/bohdon/GameExperiencesPlugin)                     | An Unreal plugin for defining modular extensions to game modes that leverage the GameFeatures plugin. Based on Lyra experiences.     | Free  |                  |
-| [SPUD](https://github.com/sinbad/SPUD)                                                       | SPUD is a save game and streaming level persistence solution for Unreal Engine 5.                                                    | Free  |                  |
-| [SUDS](https://github.com/sinbad/SUDS)                                                       | SUDS is a plugin for Unreal Engine 5 which allows you to run dialogues in your game based on a script that you write in a text file. | Free  | Has paid version |
+| Name                                                                                         | Description                                                                                                 | Source | Notes            |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------ | ---------------- |
+| [GameItemsPlugin](https://github.com/bohdon/GameItemsPlugin)                                 | Provides classes and tools for creating gameplay items, inventories and equipment.                          | Open   |                  |
+| [ExtendedGameplayAbilitiesPlugin](https://github.com/bohdon/ExtendedGameplayAbilitiesPlugin) | Three plugins for extending and working with Unreal's builtin Gameplay Abilities.                           | Open   |                  |
+| [GameExperiencesPlugin](https://github.com/bohdon/GameExperiencesPlugin)                     | Defining modular extensions to game modes that leverage the GameFeatures plugin. Based on Lyra experiences. | Open   |                  |
+| [SPUD](https://github.com/sinbad/SPUD)                                                       | A save game and streaming level persistence solution for Unreal Engine 5.                                   | Open   |                  |
+| [SUDS](https://github.com/sinbad/SUDS)                                                       | Allows you to run dialogues in your game based on a script that you write in a text file.                   | Open   | Has paid version |
 
 ## Core
 | Name                                                  | Description                                                                                                                                                                               | Price | Notes |
