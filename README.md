@@ -18,13 +18,15 @@ A list of recommended third party plugins for Unreal Engine.
 | [VoxelCore](http://voxelcore/)                       | It's essentially a layer on top Unreal to make it easier to write high-performance code & customize the editor.                                         | Open   |       |
 
 ## Tools
-| Name                                                                                  | Description                                                                                                                         | Source | Notes |
-| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------ | ----- |
-| [Blueprint Assist](https://www.fab.com/listings/14d7ba87-a587-406d-9369-ed75fa0a55ed) | Provides automatic formatting and mouse-free node editing when working with blueprints.                                             | Paid   |       |
-| [MDMetaDataEditor](https://github.com/DoubleDeez/MDMetaDataEditor)                    | Enables editing the meta data of Blueprint-created variables, function parameters, functions, events, macros, and collapsed graphs. | Open   |       |
-| [Get Relief!](https://www.fab.com/listings/5f5db94e-852a-4bbb-9bb0-c3757834c3a0)      | Aims to simplify and demystify different Relief Mapping techniques for materials.                                                   | Open   |       |
-| [Quick Actions](https://github.com/outoftheboxplugins/QuickActions)                   |                                                                                                                                     | Open   |       |
-| [Slate Icon Browser](https://github.com/sirjofri/SlateIconBrowser)                    | Lets you browse Unreal Engine's Editor icons/brushes easily, search for specific ones and copy slate code for the selected icon.    | Open   |       |
+| Name                                                                                          | Description                                                                                                                                | Source | Notes |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ----- |
+| [Blueprint Assist](https://www.fab.com/listings/14d7ba87-a587-406d-9369-ed75fa0a55ed)         | Provides automatic formatting and mouse-free node editing when working with blueprints.                                                    | Paid   |       |
+| [MDMetaDataEditor](https://github.com/DoubleDeez/MDMetaDataEditor)                            | Enables editing the meta data of Blueprint-created variables, function parameters, functions, events, macros, and collapsed graphs.        | Open   |       |
+| [Blueprint Component Reference](https://github.com/aquanox/BlueprintComponentReferencePlugin) | Provides a struct and set of accessors that allow referencing actor components from blueprint editor details view with a component picker. | Open   |       |
+| [Get Relief!](https://www.fab.com/listings/5f5db94e-852a-4bbb-9bb0-c3757834c3a0)              | Aims to simplify and demystify different Relief Mapping techniques for materials.                                                          | Open   |       |
+| [Quick Actions](https://github.com/outoftheboxplugins/QuickActions)                           |                                                                                                                                            | Open   |       |
+| [Slate Icon Browser](https://github.com/sirjofri/SlateIconBrowser)                            | Lets you browse Unreal Engine's Editor icons/brushes easily, search for specific ones and copy slate code for the selected icon.           | Open   |       |
+| [Custom Shortcuts](https://github.com/Adrien-Lucas/CustomShortcuts)                           | Allow designers to make their own editor shortcuts by executing blueprint editor code.                                                     | Open   |       |
 
 ## Debugging
 | Name                                                                  | Description                                                                                     | Source | Notes |
@@ -41,6 +43,9 @@ A list of recommended third party plugins for Unreal Engine.
 | [MDFastBinding](https://github.com/DoubleDeez/MDFastBinding)     | A versatile and performant alternative to UMG property bindings for designer-friendly workflows. The goal was to build a tool that allows mutating raw data into a form that can drive visuals, all within the editor, while staying performant. | Open   |       |
 | [UIDataSource](https://github.com/Sharundaar/UIDatasource)       | A light MVVM plugin that aims to provide a performant, simple, and easy to integrate middle layer that helps with developping UI alongside an ever changing game.                                                                                | Open   |       |
 | [DeferredPainter](https://github.com/Sharundaar/DeferredPainter) | An UMG exposed deferred paint container for Unreal.                                                                                                                                                                                              | Open   |       |
+| [Cow Nodes](https://github.com/sleepCOW/CowNodes)                | Adds an improved version of CommonUI's CreateWidgetAsync node, such as displaying ExposedOnSpawn parameters.                                                                                                                                     | Open   |       |
+| [Widget Spline System](https://github.com/ArmainAP/Unreal-Engine-Widget-Spline-System) | Introduces a powerful spline widget. With this widget, developers can effortlessly draw 2D lines which can be edited both in the UMG editor and during runtime.                                                            | Open   |       |
+
 
 ## Online
 | Name                                                                                      | Description | Source | Notes                        |
