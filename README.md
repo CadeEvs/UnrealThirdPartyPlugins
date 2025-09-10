@@ -16,7 +16,7 @@ A list of recommended third party plugins for Unreal Engine.
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----- |
 | [FlowGraph](https://github.com/MothCocoon/FlowGraph)                            | A design-agnostic event node editor. It provides a graph editor tailored for scripting flow of events in virtual worlds.                                | Open   |       |
 | [ue5coro](https://github.com/landelare/ue5coro)                                 | Implements C++20 coroutine support for Unreal Engine 5 with a focus on gameplay logic, convenience, and providing seamless integration with the engine. | Open   |       |
-| [VoxelCore](http://voxelcore/)                                                  | A layer on top Unreal to make it easier to write high-performance code & customize the editor.                                                          | Open   |       |
+| [VoxelCore](https://github.com/VoxelPlugin/VoxelCore)                                                  | A layer on top Unreal to make it easier to write high-performance code & customize the editor.                                                          | Open   |       |
 | [Gameplay Work Balancer](https://github.com/eanticev/ue-gameplay-work-balancer) | Helps you spread work across multiple frames so that your game does not exceed its intended frame budget and maintains a stable frame rate (FPS).       | Open   |       |
 
 ## Tools
@@ -39,8 +39,8 @@ A list of recommended third party plugins for Unreal Engine.
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------ | ----- |
 | [UnrealImGui](https://github.com/IDI-Systems/UnrealImGui)             | Integrates Dear ImGui developed by Omar Cornut.                                                 | Open   |       |
 | [Cog](https://github.com/arnaud-jamin/Cog)                            | A set of debug tools for Unreal Engine built on top of Dear ImGui                               | Open   |       |
-| [Property Watcher](https://github.com/aquanox/SubsystemBrowserPlugin) | A runtime variable watch window for Unreal Engine using ImGui.                                  | Open   |       |
-| [Subsystem Browser](https://github.com/guitarfreak/PropertyWatcher)   | Provides a dedicated Subsystem Browser panel to display active subsystems with property editor. | Open   |       |
+| [Property Watcher](https://github.com/guitarfreak/PropertyWatcher) | A runtime variable watch window for Unreal Engine using ImGui.                                  | Open   |       |
+| [Subsystem Browser](https://github.com/aquanox/SubsystemBrowserPlugin)   | Provides a dedicated Subsystem Browser panel to display active subsystems with property editor. | Open   |       |
 
 ## UI
 | Name                                                             | Description                                                                                                                                                                                                                                      | Source | Notes |
