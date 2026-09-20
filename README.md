@@ -20,15 +20,11 @@ A list of recommended third party plugins for Unreal Engine.
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------ | ---------------- |
 | [SPUD](https://github.com/sinbad/SPUD)                                                       | A save game and streaming level persistence solution.                                                       | Open   |                  |
 
-## Data & Configuration
-| Name                                                                                          | Description                                                                                                                                             | Source | Notes                 |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------------- |
-| [SGDynamicTextAssets](https://github.com/Start-Games-Open-Source/SGDynamicTextAssets)         | Text-based (JSON, XML, YAML) data configuration system similar to Primary Data Assets but stored as external text files.                               | Open   |  |
-
 ## Core & Engine Extensions
 | Name                                                                            | Description                                                                                                                                             | Source | Notes |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----- |
 | [FlowGraph](https://github.com/MothCocoon/FlowGraph)                            | A design-agnostic event node editor. It provides a graph editor tailored for scripting flow of events in virtual worlds.                                | Open   |       |
+| [SGDynamicTextAssets](https://github.com/Start-Games-Open-Source/SGDynamicTextAssets)         | Text-based (JSON, XML, YAML) data configuration system similar to Primary Data Assets but stored as external text files.                               | Open   |  |
 | [ue5coro](https://github.com/landelare/ue5coro)                                 | Implements C++20 coroutine support for Unreal Engine 5 with a focus on gameplay logic, convenience, and providing seamless integration with the engine. | Open   |       |
 | [VoxelCore](https://github.com/VoxelPlugin/VoxelCore)                           | A layer on top Unreal to make it easier to write high-performance code & customize the editor.                                                          | Open   |       |
 | [Gameplay Work Balancer](https://github.com/eanticev/ue-gameplay-work-balancer) | Helps you spread work across multiple frames so that your game does not exceed its intended frame budget and maintains a stable frame rate (FPS).       | Open   |       |
