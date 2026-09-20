@@ -1,37 +1,57 @@
 # Unreal Third Party Plugins
 A list of recommended third party plugins for Unreal Engine.
 
-## Game Systems
+## Gameplay Systems
 | Name                                                                                         | Description                                                                                                 | Source | Notes            |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------ | ---------------- |
 | [GameItemsPlugin](https://github.com/bohdon/GameItemsPlugin)                                 | Provides classes and tools for creating gameplay items, inventories and equipment.                          | Open   |                  |
 | [ExtendedGameplayAbilitiesPlugin](https://github.com/bohdon/ExtendedGameplayAbilitiesPlugin) | Three plugins for extending and working with Unreal's builtin Gameplay Abilities.                           | Open   |                  |
 | [GameExperiencesPlugin](https://github.com/bohdon/GameExperiencesPlugin)                     | Defining modular extensions to game modes that leverage the GameFeatures plugin. Based on Lyra experiences. | Open   |                  |
-| [SPUD](https://github.com/sinbad/SPUD)                                                       | A save game and streaming level persistence solution for Unreal Engine 5.                                   | Open   |                  |
+| [Starfire](https://github.com/MagForceSeven/Starfire)                                        | Collection of UE5 plugins: assets, save data, messenger, persistence, UI, and gameplay tools.                | Open   |                  |
+
+## Dialogue & Narrative
+| Name                                                                                         | Description                                                                                                 | Source | Notes            |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------ | ---------------- |
 | [SUDS](https://github.com/sinbad/SUDS)                                                       | Allows you to run dialogues in your game based on a script that you write in a text file.                   | Open   | Has paid version |
 | [Yap](https://github.com/HomerJohnston/Yap)                                                  | A project-agnostic dialogue engine running on FlowGraph.                                                    | Open   |                  |
 
-## Core
+## Persistence & Save Systems
+| Name                                                                                         | Description                                                                                                 | Source | Notes            |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------ | ---------------- |
+| [SPUD](https://github.com/sinbad/SPUD)                                                       | A save game and streaming level persistence solution.                                                       | Open   |                  |
+
+## Data & Configuration
+| Name                                                                                          | Description                                                                                                                                             | Source | Notes                 |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --------------------- |
+| [SGDynamicTextAssets](https://github.com/Start-Games-Open-Source/SGDynamicTextAssets)         | Text-based (JSON, XML, YAML) data configuration system similar to Primary Data Assets but stored as external text files.                               | Open   |  |
+
+## Core & Engine Extensions
 | Name                                                                            | Description                                                                                                                                             | Source | Notes |
 | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----- |
 | [FlowGraph](https://github.com/MothCocoon/FlowGraph)                            | A design-agnostic event node editor. It provides a graph editor tailored for scripting flow of events in virtual worlds.                                | Open   |       |
 | [ue5coro](https://github.com/landelare/ue5coro)                                 | Implements C++20 coroutine support for Unreal Engine 5 with a focus on gameplay logic, convenience, and providing seamless integration with the engine. | Open   |       |
-| [VoxelCore](https://github.com/VoxelPlugin/VoxelCore)                                                  | A layer on top Unreal to make it easier to write high-performance code & customize the editor.                                                          | Open   |       |
+| [VoxelCore](https://github.com/VoxelPlugin/VoxelCore)                           | A layer on top Unreal to make it easier to write high-performance code & customize the editor.                                                          | Open   |       |
 | [Gameplay Work Balancer](https://github.com/eanticev/ue-gameplay-work-balancer) | Helps you spread work across multiple frames so that your game does not exceed its intended frame budget and maintains a stable frame rate (FPS).       | Open   |       |
 
-## Tools
+## Editor & Blueprint Tools
 | Name                                                                                          | Description                                                                                                                                | Source | Notes |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ----- |
 | [Blueprint Assist](https://www.fab.com/listings/14d7ba87-a587-406d-9369-ed75fa0a55ed)         | Provides automatic formatting and mouse-free node editing when working with blueprints.                                                    | Paid   |       |
 | [MDMetaDataEditor](https://github.com/DoubleDeez/MDMetaDataEditor)                            | Enables editing the meta data of Blueprint-created variables, function parameters, functions, events, macros, and collapsed graphs.        | Open   |       |
 | [Blueprint Component Reference](https://github.com/aquanox/BlueprintComponentReferencePlugin) | Provides a struct and set of accessors that allow referencing actor components from blueprint editor details view with a component picker. | Open   |       |
-| [Get Relief!](https://www.fab.com/listings/5f5db94e-852a-4bbb-9bb0-c3757834c3a0)              | Aims to simplify and demystify different Relief Mapping techniques for materials.                                                          | Open   |       |
 | [Quick Actions](https://github.com/outoftheboxplugins/QuickActions)                           |                                                                                                                                            | Open   |       |
 | [Slate Icon Browser](https://github.com/sirjofri/SlateIconBrowser)                            | Lets you browse Unreal Engine's Editor icons/brushes easily, search for specific ones and copy slate code for the selected icon.           | Open   |       |
 | [Custom Shortcuts](https://github.com/Adrien-Lucas/CustomShortcuts)                           | Allow designers to make their own editor shortcuts by executing blueprint editor code.                                                     | Open   |       |
 | [Property History](https://github.com/VoxelPlugin/PropertyHistory/)                           | Let's you view property history inline.                                                                                                    | Open   |       |
 | [K2PostIt](https://github.com/HomerJohnston/K2PostIt)                                         | Adds an improved comment node to the Blueprint Graph with Markdown support.                                                                | Open   |       |
 | [Enhanced Palette](https://github.com/aquanox/EnhancedPalettePlugin)                          | Extends the capabilities of Place Actors panel, allowing it to be customized and ability to dynamically generate category content.         | Open   |       |
+| [String Table Browser](https://github.com/matoroid/StringTableBrowser)                        | Browse, search, and reference every string table entry in your project from a single panel.                                                | Open   |       |
+| [Directive Utilities](https://github.com/UnrealDirective/DirectiveUtilities)                  | Runtime input and editor utilities with Enhanced Input and Editor Scripting Utilities support.                                             | Open   |       |
+
+## Rendering & VFX
+| Name                                                                                          | Description                                                                                                                                | Source | Notes |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | ------ | ----- |
+| [Get Relief!](https://www.fab.com/listings/5f5db94e-852a-4bbb-9bb0-c3757834c3a0)              | Aims to simplify and demystify different Relief Mapping techniques for materials.                                                          | Open   |       |
 | [Niagara Destruction Driver](https://github.com/eanticev/niagara-destruction-driver)          | Turn CHAOS destructibles into very performant GPU simulated destructible static meshes driven by Niagara particles.                        | Open   |       |
 
 ## Debugging
@@ -53,6 +73,12 @@ A list of recommended third party plugins for Unreal Engine.
 | [Widget Spline System](https://github.com/ArmainAP/Unreal-Engine-Widget-Spline-System) | Introduces a powerful spline widget. With this widget, developers can effortlessly draw 2D lines which can be edited both in the UMG editor and during runtime.                                                            | Open   |       |
 | [RTMSDF](https://github.com/rtm223/RTMSDF) | Provides importers for generating 2D SDFs from .svg source files and all Unreal-supported texture source files (.psd, .png, .tif etc).                                                                | Open   |       |
 | [UMG3dRenderWidget](https://github.com/krojew/UMG3dRenderWidget) | Provides the bridge between the PocketWorlds plugin from Epic (available in Lyra) and UE projects. This allows for adding 3d views of whole levels in a normal UMG widget.                                                                       | Open   |       |
+| [Custom Shape Button](https://github.com/JanSeliv/CustomShapeButton/) | Create buttons of any custom shape with proper hover and press behavior in UMG.                                                                                                                              | Open   |       |
+
+## Input & Devices
+| Name                                                                                      | Description                                                                                                        | Source | Notes |
+| ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------ | ----- |
+| [MEKDualSensePlugin](https://github.com/kacmazemin/MEKDualSensePlugin)                    | Sony DualSense (PS5) controller support: adaptive triggers, haptics, lightbar, gyroscope, and touchpad for UE5.   | Open   | Windows only |
 
 ## Online
 | Name                                                                                      | Description                                                                  | Source | Notes                        |
